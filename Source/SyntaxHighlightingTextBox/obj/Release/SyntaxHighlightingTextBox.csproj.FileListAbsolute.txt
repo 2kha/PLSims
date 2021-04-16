@@ -1,0 +1,13 @@
+D:\Projects\VB\PLSims\SyntaxHighlightingTextBox\bin\Release\SyntaxHighlightingTextBox.dll
+D:\Projects\VB\PLSims\SyntaxHighlightingTextBox\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\VB\PLSims\SyntaxHighlightingTextBox\obj\Release\UrielGuy.SyntaxHighlightingTextBox.AutoCompleteForm.resources
+D:\Projects\VB\PLSims\SyntaxHighlightingTextBox\obj\Release\UrielGuy.SyntaxHighlightingTextBox.SyntaxHighlightingTextBox.resources
+D:\Projects\VB\PLSims\SyntaxHighlightingTextBox\obj\Release\ResGen.read.1.tlog
+D:\Projects\VB\PLSims\SyntaxHighlightingTextBox\obj\Release\ResGen.write.1.tlog
+D:\Projects\VB\PLSims\SyntaxHighlightingTextBox\obj\Release\SyntaxHighlightingTextBox.dll
+D:\Projects\PLSims\PLSims\SyntaxHighlightingTextBox\bin\Release\SyntaxHighlightingTextBox.dll
+D:\Projects\PLSims\PLSims\SyntaxHighlightingTextBox\obj\Release\UrielGuy.SyntaxHighlightingTextBox.AutoCompleteForm.resources
+D:\Projects\PLSims\PLSims\SyntaxHighlightingTextBox\obj\Release\UrielGuy.SyntaxHighlightingTextBox.SyntaxHighlightingTextBox.resources
+D:\Projects\PLSims\PLSims\SyntaxHighlightingTextBox\obj\Release\SyntaxHighlightingTextBox.csproj.GenerateResource.Cache
+D:\Projects\PLSims\PLSims\SyntaxHighlightingTextBox\obj\Release\SyntaxHighlightingTextBox.dll
+D:\Projects\PLSims\PLSims\SyntaxHighlightingTextBox\obj\Release\SyntaxHighlightingTextBox.csprojResolveAssemblyReference.cache

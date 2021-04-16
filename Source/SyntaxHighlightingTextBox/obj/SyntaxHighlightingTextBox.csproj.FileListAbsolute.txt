@@ -1,0 +1,8 @@
+F:\Projects\VC#\SyntaxHighlightingArtice_src\SyntaxHighlightingTextBox\bin\Debug\SyntaxHighlightingTextBox.dll
+F:\Projects\VC#\SyntaxHighlightingArtice_src\SyntaxHighlightingTextBox\bin\Debug\SyntaxHighlightingTextBox.pdb
+F:\Projects\VC#\SyntaxHighlightingArtice_src\SyntaxHighlightingTextBox\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\VC#\SyntaxHighlightingArtice_src\SyntaxHighlightingTextBox\obj\Debug\UrielGuy.SyntaxHighlightingTextBox.AutoCompleteForm.resources
+F:\Projects\VC#\SyntaxHighlightingArtice_src\SyntaxHighlightingTextBox\obj\Debug\UrielGuy.SyntaxHighlightingTextBox.SyntaxHighlightingTextBox.resources
+F:\Projects\VC#\SyntaxHighlightingArtice_src\SyntaxHighlightingTextBox\obj\Debug\SyntaxHighlightingTextBox.csproj.GenerateResource.Cache
+F:\Projects\VC#\SyntaxHighlightingArtice_src\SyntaxHighlightingTextBox\obj\Debug\SyntaxHighlightingTextBox.dll
+F:\Projects\VC#\SyntaxHighlightingArtice_src\SyntaxHighlightingTextBox\obj\Debug\SyntaxHighlightingTextBox.pdb

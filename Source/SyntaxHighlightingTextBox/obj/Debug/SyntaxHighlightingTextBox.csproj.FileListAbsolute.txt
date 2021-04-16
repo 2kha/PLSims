@@ -1,0 +1,42 @@
+D:\Projects\VC#\SyntaxHighlightingArtice_src\SyntaxHighlightingTextBox\bin\Debug\SyntaxHighlightingTextBox.dll
+D:\Projects\VC#\SyntaxHighlightingArtice_src\SyntaxHighlightingTextBox\bin\Debug\SyntaxHighlightingTextBox.pdb
+D:\Projects\VC#\SyntaxHighlightingArtice_src\SyntaxHighlightingTextBox\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\VC#\SyntaxHighlightingArtice_src\SyntaxHighlightingTextBox\obj\Debug\UrielGuy.SyntaxHighlightingTextBox.AutoCompleteForm.resources
+D:\Projects\VC#\SyntaxHighlightingArtice_src\SyntaxHighlightingTextBox\obj\Debug\UrielGuy.SyntaxHighlightingTextBox.SyntaxHighlightingTextBox.resources
+D:\Projects\VC#\SyntaxHighlightingArtice_src\SyntaxHighlightingTextBox\obj\Debug\ResGen.read.1.tlog
+D:\Projects\VC#\SyntaxHighlightingArtice_src\SyntaxHighlightingTextBox\obj\Debug\ResGen.write.1.tlog
+D:\Projects\VC#\SyntaxHighlightingArtice_src\SyntaxHighlightingTextBox\obj\Debug\SyntaxHighlightingTextBox.dll
+D:\Projects\VC#\SyntaxHighlightingArtice_src\SyntaxHighlightingTextBox\obj\Debug\SyntaxHighlightingTextBox.pdb
+C:\Experimental Projects\Others\CompositeStructure\SyntaxHighlightingTextBox\bin\Debug\SyntaxHighlightingTextBox.dll
+C:\Experimental Projects\Others\CompositeStructure\SyntaxHighlightingTextBox\bin\Debug\SyntaxHighlightingTextBox.pdb
+C:\Experimental Projects\Others\CompositeStructure\SyntaxHighlightingTextBox\obj\Debug\SyntaxHighlightingTextBox.csprojResolveAssemblyReference.cache
+C:\Experimental Projects\Others\CompositeStructure\SyntaxHighlightingTextBox\obj\Debug\UrielGuy.SyntaxHighlightingTextBox.AutoCompleteForm.resources
+C:\Experimental Projects\Others\CompositeStructure\SyntaxHighlightingTextBox\obj\Debug\UrielGuy.SyntaxHighlightingTextBox.SyntaxHighlightingTextBox.resources
+C:\Experimental Projects\Others\CompositeStructure\SyntaxHighlightingTextBox\obj\Debug\SyntaxHighlightingTextBox.csproj.GenerateResource.Cache
+C:\Experimental Projects\Others\CompositeStructure\SyntaxHighlightingTextBox\obj\Debug\SyntaxHighlightingTextBox.dll
+C:\Experimental Projects\Others\CompositeStructure\SyntaxHighlightingTextBox\obj\Debug\SyntaxHighlightingTextBox.pdb
+D:\Projects\Projects In Progress\Web Management\PDA\SyntaxHighlightingTextBox\bin\Debug\SyntaxHighlightingTextBox.dll
+D:\Projects\Projects In Progress\Web Management\PDA\SyntaxHighlightingTextBox\bin\Debug\SyntaxHighlightingTextBox.pdb
+D:\Projects\Projects In Progress\Web Management\PDA\SyntaxHighlightingTextBox\obj\Debug\SyntaxHighlightingTextBox.csprojResolveAssemblyReference.cache
+D:\Projects\Projects In Progress\Web Management\PDA\SyntaxHighlightingTextBox\obj\Debug\UrielGuy.SyntaxHighlightingTextBox.AutoCompleteForm.resources
+D:\Projects\Projects In Progress\Web Management\PDA\SyntaxHighlightingTextBox\obj\Debug\UrielGuy.SyntaxHighlightingTextBox.SyntaxHighlightingTextBox.resources
+D:\Projects\Projects In Progress\Web Management\PDA\SyntaxHighlightingTextBox\obj\Debug\SyntaxHighlightingTextBox.csproj.GenerateResource.Cache
+D:\Projects\Projects In Progress\Web Management\PDA\SyntaxHighlightingTextBox\obj\Debug\SyntaxHighlightingTextBox.dll
+D:\Projects\Projects In Progress\Web Management\PDA\SyntaxHighlightingTextBox\obj\Debug\SyntaxHighlightingTextBox.pdb
+D:\Projects\Projects In Progress\Web Management\PDA - SignalR\SyntaxHighlightingTextBox\bin\Debug\SyntaxHighlightingTextBox.dll
+D:\Projects\Projects In Progress\Web Management\PDA - SignalR\SyntaxHighlightingTextBox\bin\Debug\SyntaxHighlightingTextBox.pdb
+D:\Projects\Projects In Progress\Web Management\PDA - SignalR\SyntaxHighlightingTextBox\obj\Debug\UrielGuy.SyntaxHighlightingTextBox.AutoCompleteForm.resources
+D:\Projects\Projects In Progress\Web Management\PDA - SignalR\SyntaxHighlightingTextBox\obj\Debug\UrielGuy.SyntaxHighlightingTextBox.SyntaxHighlightingTextBox.resources
+D:\Projects\Projects In Progress\Web Management\PDA - SignalR\SyntaxHighlightingTextBox\obj\Debug\SyntaxHighlightingTextBox.csproj.GenerateResource.Cache
+D:\Projects\Projects In Progress\Web Management\PDA - SignalR\SyntaxHighlightingTextBox\obj\Debug\SyntaxHighlightingTextBox.dll
+D:\Projects\Projects In Progress\Web Management\PDA - SignalR\SyntaxHighlightingTextBox\obj\Debug\SyntaxHighlightingTextBox.pdb
+D:\Projects\Projects In Progress\Web Management\PDA - SignalR\SyntaxHighlightingTextBox\obj\Debug\SyntaxHighlightingTextBox.csprojResolveAssemblyReference.cache
+D:\Projects\Projects In Progress\Web Management\PDA - Service\SyntaxHighlightingTextBox\bin\Debug\SyntaxHighlightingTextBox.dll
+D:\Projects\Projects In Progress\Web Management\PDA - Service\SyntaxHighlightingTextBox\bin\Debug\SyntaxHighlightingTextBox.pdb
+D:\Projects\Projects In Progress\Web Management\PDA - Service\SyntaxHighlightingTextBox\obj\Debug\UrielGuy.SyntaxHighlightingTextBox.AutoCompleteForm.resources
+D:\Projects\Projects In Progress\Web Management\PDA - Service\SyntaxHighlightingTextBox\obj\Debug\UrielGuy.SyntaxHighlightingTextBox.SyntaxHighlightingTextBox.resources
+D:\Projects\Projects In Progress\Web Management\PDA - Service\SyntaxHighlightingTextBox\obj\Debug\SyntaxHighlightingTextBox.csproj.GenerateResource.Cache
+D:\Projects\Projects In Progress\Web Management\PDA - Service\SyntaxHighlightingTextBox\obj\Debug\SyntaxHighlightingTextBox.dll
+D:\Projects\Projects In Progress\Web Management\PDA - Service\SyntaxHighlightingTextBox\obj\Debug\SyntaxHighlightingTextBox.pdb
+D:\Projects\Projects In Progress\Web Management\PDA - Service\SyntaxHighlightingTextBox\obj\Debug\SyntaxHighlightingTextBox.csprojAssemblyReference.cache
+D:\Projects\Projects In Progress\Web Management\PDA - Service\SyntaxHighlightingTextBox\obj\Debug\SyntaxHighlightingTextBox.csproj.CoreCompileInputs.cache
