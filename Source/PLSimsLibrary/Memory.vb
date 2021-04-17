@@ -181,9 +181,7 @@ Namespace PLSims
 
                 If (LVR Is Nothing) Then
 
-                    SYS_ERR_CODE = ErrorType.SYS_ERROR_MISSING_VARIABLE
-
-                    Exit Function
+                    Return LV_W_READ
 
                 Else
 
@@ -225,9 +223,7 @@ Namespace PLSims
 
                 If (LVR Is Nothing) Then
 
-                    SYS_ERR_CODE = ErrorType.SYS_ERROR_MISSING_VARIABLE
-
-                    Exit Function
+                    Return LV_READ
 
                 Else
 
@@ -271,8 +267,6 @@ Namespace PLSims
 
                 If (LVR Is Nothing) Then
 
-                    SYS_ERR_CODE = ErrorType.SYS_ERROR_MISSING_VARIABLE
-
                     Exit Sub
 
                 Else
@@ -313,8 +307,6 @@ Namespace PLSims
                 Dim Index As Long
 
                 If (LVR Is Nothing) Then
-
-                    SYS_ERR_CODE = ErrorType.SYS_ERROR_MISSING_VARIABLE
 
                     Exit Sub
 
