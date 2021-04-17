@@ -366,8 +366,9 @@ namespace PLSimsEditor
 
         private void mnuFileOpen_Click(object sender, EventArgs e)
         {
-            openFileDlg.Filter = "Text Files (*.txt) | *.txt | PLSims Files (*.pls) | *.pls | All Files (*.*) | *.*";
+            openFileDlg.Filter = "Text Files (*.txt)|*.txt|PLSims Files (*.pls)|*.pls|All Files (*.*)|*.*";
             openFileDlg.Title = this.Text + " - Open File ";
+            openFileDlg.FilterIndex = 2;
             openFileDlg.ShowDialog();
         }
 
@@ -378,8 +379,9 @@ namespace PLSimsEditor
 
         private void SaveFileAs()
         {
-            saveFileDlg.Filter = "Text Files (*.txt) | *.txt | PLSims Files (*.pls) | *.pls | All Files (*.*) | *.*";            
+            saveFileDlg.Filter = "Text Files (*.txt)|*.txt|PLSims Files (*.pls)|*.pls|All Files (*.*)|*.*";
             saveFileDlg.Title = this.Text + " - Save File";
+            saveFileDlg.FilterIndex = 2;
             saveFileDlg.ShowDialog();
         }
 

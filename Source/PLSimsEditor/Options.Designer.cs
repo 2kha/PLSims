@@ -60,7 +60,7 @@
             // 
             this.lstDescriptors.Location = new System.Drawing.Point(14, 108);
             this.lstDescriptors.Name = "lstDescriptors";
-            this.lstDescriptors.Size = new System.Drawing.Size(195, 147);
+            this.lstDescriptors.Size = new System.Drawing.Size(227, 147);
             this.lstDescriptors.TabIndex = 1;
             this.lstDescriptors.SelectedIndexChanged += new System.EventHandler(this.lstDescriptors_SelectedIndexChanged);
             // 
@@ -78,9 +78,9 @@
             // 
             this.lblDisplay.BackColor = System.Drawing.Color.White;
             this.lblDisplay.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.lblDisplay.Location = new System.Drawing.Point(215, 200);
+            this.lblDisplay.Location = new System.Drawing.Point(255, 200);
             this.lblDisplay.Name = "lblDisplay";
-            this.lblDisplay.Size = new System.Drawing.Size(265, 55);
+            this.lblDisplay.Size = new System.Drawing.Size(225, 55);
             this.lblDisplay.TabIndex = 4;
             this.lblDisplay.Text = "ij : J * ( ) + end";
             this.lblDisplay.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -99,7 +99,7 @@
             // 
             this.lblSample.AutoSize = true;
             this.lblSample.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblSample.Location = new System.Drawing.Point(307, 173);
+            this.lblSample.Location = new System.Drawing.Point(336, 172);
             this.lblSample.Name = "lblSample";
             this.lblSample.Size = new System.Drawing.Size(61, 16);
             this.lblSample.TabIndex = 9;
@@ -113,7 +113,7 @@
             this.groupColor.Controls.Add(this.panForeColor);
             this.groupColor.Location = new System.Drawing.Point(255, 30);
             this.groupColor.Name = "groupColor";
-            this.groupColor.Size = new System.Drawing.Size(207, 123);
+            this.groupColor.Size = new System.Drawing.Size(225, 123);
             this.groupColor.TabIndex = 12;
             this.groupColor.TabStop = false;
             this.groupColor.Text = "Color";
@@ -209,7 +209,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(492, 366);
+            this.ClientSize = new System.Drawing.Size(495, 366);
             this.Controls.Add(this.lblDescription);
             this.Controls.Add(this.btnOK);
             this.Controls.Add(this.label1);
