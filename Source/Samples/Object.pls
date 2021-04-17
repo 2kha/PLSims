@@ -25,6 +25,8 @@ Program
 		class[1] := b
 		class[2] := c
 
+		class[3] := Json("{Name : 'Student 4', Age : 16, GPA : 3.2, Id : 2204 }")
+
 		Output(ToJson(class))
 
 	End Procedure	
